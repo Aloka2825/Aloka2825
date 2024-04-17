@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me anything about .NET 
 - 📫 How to reach me: alokmoharana23@yahoo.com
-- 😄 My website: https://thetechbrothers.net
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
@@ -29,7 +28,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-![Aloka's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![Aloka2825's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aloka2825&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
