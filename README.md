@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,sqlite,mysql,mongodb,html,css,js,react,vite,nodejs,aws,ubuntu,vscode,git,github,linkedin,wordpress,ps)](https://skillicons.dev)
 
 ![Aloka2825's Stats](https://github-readme-stats.vercel.app/api?username=Aloka2825&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Aloka2825's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aloka2825&theme=vue-dark&hide_border=true)
@@ -34,4 +34,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [Aloka Moharana](https://github.com/Aloka2825)
