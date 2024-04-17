@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Aloka Moharana</h1>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer;.NET+Developer;Quick+Learner)](https://git.io/typing-svg)
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer;.NET+Developer;Quick+Learner" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working as a .NET Developer
 - 🌱 I’m currently learning MERN Stack
