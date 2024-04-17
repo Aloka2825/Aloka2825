@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Aloka Moharana</h1>
- <h3>Fullstack .NET Developer</h3>
+ <h3 align="center">Fullstack .NET Developer</h3>
 
 - 🔭 I’m currently working as a .NET Developer
 - 🌱 I’m currently learning MERN Stack
