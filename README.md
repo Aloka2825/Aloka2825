@@ -30,6 +30,7 @@
 
 ![Aloka2825's Stats](https://github-readme-stats.vercel.app/api?username=Aloka2825&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Aloka2825's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aloka2825&theme=vue-dark&hide_border=true)
+<br/>
 ![Aloka2825's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aloka2825&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
