@@ -28,9 +28,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
+![Aloka2825's Stats](https://github-readme-stats.vercel.app/api?username=Aloka2825&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Aloka2825's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aloka2825&theme=vue-dark&hide_border=true)
 ![Aloka2825's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aloka2825&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
 
 <br>
