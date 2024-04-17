@@ -11,7 +11,7 @@
   <a href="https://github.com/Aloka2825">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
- <a href="https://www.linkedin.com/in/aloka-moharana-8660a0254/">
+ <a href="https://www.linkedin.com/in/aloka-moharana-8660a0254/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 <!--    <a href="https://www.instagram.com/axif_taj">
